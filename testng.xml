@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Display all Sports activities available in your city">
+<test name="FunctionalTesting">
+    <classes>
+      <class name="com.BaseUD.BaseUd"/>
+      <class name="com.BookMyShowPage.FindSports"/>
+      <class name="com.BookMyShowPage.Movies"/>
+      <class name="com.BookMyShowPage.SignIn"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
